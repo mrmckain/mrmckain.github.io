@@ -1,2 +1,4 @@
 name: Michael R. McKain, Assistant Professor
 markdown: kramdown
+
+theme: jekyll-theme-cayman
